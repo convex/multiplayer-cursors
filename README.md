@@ -22,7 +22,7 @@ The implementation has the following properties:
 
 
 Updated, and from the `reorg` branch API:
-https://github.com/get-convex/multiplayer-cursors/assets/366683/d6f23d45-124f-4a31-8e3b-6dd4f0fc0446
+https://github.com/convex/multiplayer-cursors/assets/366683/d6f23d45-124f-4a31-8e3b-6dd4f0fc0446
 
 Older:
-https://github.com/get-convex/multiplayer-cursors/assets/5784949/135932d0-c46b-4126-bed9-9b1d601143ca
+https://github.com/convex/multiplayer-cursors/assets/5784949/135932d0-c46b-4126-bed9-9b1d601143ca
